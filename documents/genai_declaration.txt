@@ -1,0 +1,5 @@
+Generative AI tools are not restricted for Assessment 2. Students may use GenAI tools to assist them in any way.
+
+However, any use of generative AI must be appropriately acknowledged. Students must include a Declaration of AI Generated Material.
+
+Students must still understand the technical details of their approach and must be able to answer questions about their project, data sources, methodology and evaluation.
