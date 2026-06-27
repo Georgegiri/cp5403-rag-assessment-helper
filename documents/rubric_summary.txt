@@ -1,0 +1,5 @@
+The assessment is marked on application and data selection, implementation code, evaluation code, report content, writing style, references, presentation content, speech, visuals, response to questions and reflection.
+
+Higher marks require a relevant and sufficiently complex problem, appropriate data sources, effective LLM implementation, strong evaluation, accurate technical language, good academic writing and appropriate APA 7th edition references.
+
+The final presentation must include a reflection explaining how the student responded to feedback, what changes were made, why those changes were made and how they improved the project.
