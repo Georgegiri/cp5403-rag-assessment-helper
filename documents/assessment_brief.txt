@@ -1,0 +1,9 @@
+Assessment 2 is an individual LLM project. The project report is worth 30 percent and the oral presentation is worth 20 percent. Both are due in Week 10.
+
+The written report should be 3000 to 4000 words. The oral presentation should be 15 minutes.
+
+Students may choose any problem that interests them, but the problem should be suitable for an LLM application. Students should begin with an existing open-weights LLM and fine-tune the model and/or develop retrieval augmented generation capabilities.
+
+Students are expected to find and organise appropriate data sources for their application. The report should include an introduction, target problem, choice of data sources, methodology, evaluation, discussion, conclusion and references.
+
+Students are encouraged to develop the application within a GitHub repository to show good source code control.
