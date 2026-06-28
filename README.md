@@ -172,22 +172,6 @@ Students may use it to understand the RAG process, but their Assessment 2 submis
 
 Students must also acknowledge any use of GenAI tools in accordance with the assessment instructions.
 
----
-
-## Suggested extension tasks
-
-Students can extend this project by:
-
-1. Replacing the sample documents with their own documents.
-2. Adding more documents to the knowledge base.
-3. Testing more questions.
-4. Improving the prompt.
-5. Comparing different embedding models.
-6. Comparing different language models.
-7. Adding a simple user interface.
-8. Creating an evaluation table.
-9. Adding document citations to the generated answers.
-10. Testing what happens when the answer is not found in the documents.
 
 ---
 
